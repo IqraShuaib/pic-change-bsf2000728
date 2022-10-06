@@ -1,0 +1,19 @@
+button{
+    font-family: Arial, Helvetica, sans-serif;
+    background:brown;
+    color: white;
+    border:brown;
+    padding: 2px 10px;
+    text-align: center;
+    cursor: pointer;
+    border-radius: 2px;
+    }
+    body{
+        text-align: center;
+        font-family: Arial, Helvetica, sans-serif;
+        
+    }
+    h2{
+         color:brown;
+    }
+        
